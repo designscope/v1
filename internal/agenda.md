@@ -9,6 +9,14 @@
 - [ ] vuepress walktru
 - [ ] define new actionables
 
+- Actionables:
+  - Actionables for John:
+    - [] What are the critical questions that we ask for framing?
+    - [] Start generating copy
+  - Actionables for Nicholas:
+    - [] find names for framing activities/ritual identification
+
+
 ## Friday, May 24, 2018
 
   - Discuss sitemap (call to action, per article)
