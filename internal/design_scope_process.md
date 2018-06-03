@@ -1,10 +1,10 @@
 Design Scope
-1. Frame
+1. Framing
   - Action needed: define the problem space/scope
   - Deliverables: White paper/problem statement/definition of problem space
   - Possible trouble if skipped:
 2. Research
-  - Action needed: study the information architecture, people and 
+  - Action needed: study the information architecture, people and
   - Deliverable: Insights/user report
   - Possible trouble if skipped:
 3. Ideate
@@ -17,9 +17,9 @@ Design Scope
   - Possible trouble if skipped:
 5. Validate
   - Action needed: Test ideas to allow for later refinement
-  - Deliverable: usability and accessibility report 
+  - Deliverable: usability and accessibility report
   - Possible trouble if skipped:
 6. Cycle
   - Action needed: refine design to address new issues as they arise
   - Deliverable: [???]
-  - Possible trouble if skipped: 
+  - Possible trouble if skipped:
