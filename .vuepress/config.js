@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Design Scope',
-  description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, quidem.',
+  description: 'aaa',
   themeConfig: {
     nav: [
-    { text: 'About', link: '/about/' },
-    { text: 'Mission', link: '/mission/' },
-    { text: 'Process', link: '/process/' }
+    { text: 'mission', link: '/mission/' },
+    { text: 'method', link: '/method/' },
+    { text: 'systemic design', link: '/systemic/' }
     ]
   }
 };

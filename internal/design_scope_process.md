@@ -5,7 +5,7 @@
   - Deliverables: White paper/problem statement/definition of problem space
   - Possible trouble if skipped:
 1. Research
-  - Action needed: study the information architecture, people and 
+  - Action needed: study the information architecture, people, etc
   - Deliverable: Insights/user report
   - Possible trouble if skipped:
 2. Ideate
@@ -18,9 +18,10 @@
   - Possible trouble if skipped:
 4. Validate
   - Action needed: Test ideas to allow for later refinement
-  - Deliverable: usability and accessibility report 
+  - Deliverable: usability and accessibility report
   - Possible trouble if skipped:
 5. Cycle
   - Action needed: refine design to address new issues as they arise
   - Deliverable: 
   - Possible trouble if skipped: 
+
