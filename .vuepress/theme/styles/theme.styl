@@ -9,7 +9,7 @@ html, body
   margin 0
 
 body
-  font-family -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+  font-family $fontText
   -webkit-font-smoothing antialiased
   -moz-osx-font-smoothing grayscale
   font-size 16px
@@ -100,10 +100,10 @@ ul, ol
   padding-left 1.2em
 
 strong
-  font-weight 600
+  font-family $fontTitle
 
 h1, h2, h3, h4, h5, h6
-  font-weight 600
+  font-family $fontTitle
   line-height 1.25
   .content:not(.custom) > &
     margin-top (0.5rem - $navbarHeight)
